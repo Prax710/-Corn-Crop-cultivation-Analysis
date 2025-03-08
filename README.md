@@ -34,6 +34,7 @@ Corn_Crop_Cultivation.pbix - Power BI file containing the complete dashboard.
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 📬 Connect
+
 🔗 LinkedIn: ( www.linkedin.com/in/prasad-bakare-560625241 )
 
 📧 Email: prasadbakare2002@gmail.com
