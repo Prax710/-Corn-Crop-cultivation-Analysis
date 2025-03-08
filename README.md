@@ -2,6 +2,8 @@
 
 Download csv file: [corn_data.csv](https://github.com/user-attachments/files/19141903/corn_data.csv)
 
+Download Case Study link: [Case_study_for_Corn_crop_Cultivation.pdf](https://github.com/user-attachments/files/19141990/Case_study_for_Corn_crop_Cultivation.pdf)
+
 🌽 Corn Crop Cultivation Analysis Dashboard
 This Power BI dashboard provides a comprehensive analysis of corn crop cultivation, incorporating multiple insightful features. The dashboard is designed to help stakeholders, farmers, and agronomists make data-driven decisions by visualizing key metrics and trends.
 
